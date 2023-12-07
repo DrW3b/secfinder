@@ -1,4 +1,4 @@
-# Sensitive Data Finder
+# secfinder
 
 ## Description
 
