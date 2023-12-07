@@ -13,7 +13,8 @@ This script identifies and extracts potential sensitive information from the sou
 ## Usage
 
 1. Provide a list of URLs in a text file.
-2. Run the script to scan and identify sensitive data.
+2. 
+3. Run the script to scan and identify sensitive data.
 
 **Disclaimer:**
 This tool is intended for educational and awareness purposes. Use it responsibly and only on systems you have explicit permission to analyze.
