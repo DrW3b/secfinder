@@ -24,4 +24,4 @@ This tool is intended for educational and awareness purposes. Use it responsibly
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sensitive-data-finder.git
+   git clone https://github.com/DrW3b/secfinder.git
